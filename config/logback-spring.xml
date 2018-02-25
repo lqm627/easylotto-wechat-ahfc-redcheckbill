@@ -29,7 +29,7 @@
 		<appender-ref ref="STDOUT" />
 	</root>
 
-	<!-- <logger name="org.springframework.boot" level="DEBUG" /> -->
+	<!--111 <logger name="org.springframework.boot" level="DEBUG" /> 111-->
 	<logger name="springfox.documentation" level="WARN" />
 	<logger name="com.ahwechat.webapi" level="DEBUG" />
 	<logger name="com.easylotto.core" level="DEBUG" />
